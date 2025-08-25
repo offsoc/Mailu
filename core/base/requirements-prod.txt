@@ -57,7 +57,7 @@ pcodedmp==1.2.6
 podop @ file:///app/libs/podop
 postfix-mta-sts-resolver==1.4.0
 psycopg2-binary==2.9.9
-pycares==4.4.0
+pycares==4.9.0
 pycparser==2.22
 Pygments==2.18.0
 pyparsing==2.4.7
